@@ -9,6 +9,7 @@ Arturo Fdez
 ## Cambios respecto al respositorio original:
 - Clonacion del repositorio dentro del mismo
 - Creacion de archivo de prueba 
+- Creacion del archivo que resume la practica
 
 ## ¿Como probar en el cloud?
 
