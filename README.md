@@ -1,6 +1,14 @@
 # hello-world
 
-Un repositorio para empezar a usar Github y Github Actions con Java
+Un repositorio para empezar a usar Github y Github Actions con Java.
+
+#Autor
+
+Arturo Fdez
+
+##Cambios respecto al respositorio original:
+- Clonacion del repositorio dentro del mismo
+- Creacion de archivo de prueba 
 
 ## ¿Como probar en el cloud?
 
