@@ -2,11 +2,11 @@
 
 Un repositorio para empezar a usar Github y Github Actions con Java.
 
-#Autor
+# Autor
 
 Arturo Fdez
 
-##Cambios respecto al respositorio original:
+## Cambios respecto al respositorio original:
 - Clonacion del repositorio dentro del mismo
 - Creacion de archivo de prueba 
 
